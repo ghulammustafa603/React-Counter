@@ -1,4 +1,5 @@
 # React + Vite
+This is my first project of React which is simple a counter app which counts number by clicking on it.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
